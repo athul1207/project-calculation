@@ -1,4 +1,5 @@
 a=5
 b=6
-s=a+b
+c=7
+s=a+b+c
 print(s)
