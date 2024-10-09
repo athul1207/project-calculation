@@ -8,3 +8,4 @@ percentage = (obtained_value / total_value) * 100
 # Output the result
 print(f"The percentage is {percentage}%")
 print('the new percentage')
+print('the best percentage')
